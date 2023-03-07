@@ -9,47 +9,47 @@ const App = () => {
         </tr>
         <tr>
           <td colSpan={4} className="full-input">
-            <label for="date">Date:</label>
+            <label>Date:</label>
             <input type="text" name="date"></input>
           </td>
           <td colSpan={3} className="full-input">
-            <label for="cusn">Customer Name:</label>
+            <label>Customer Name:</label>
             <input type="text" name="cusn"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={4} className="full-input">
-            <label for="cusa">Customer Address:</label>
+            <label>Customer Address:</label>
             <input type="text" name="cusa"></input>
           </td>
           <td colSpan={3} className="full-input">
-            <label for="jobn">Job Name:</label>
+            <label>Job Name:</label>
             <input type="text" name="jobn"></input>
           </td>
         </tr>
 
         <tr>
           <td className="full-input" colSpan={4}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={3} className="full-input">
-            <label for="cusc">Customer Contact:</label>
+            <label>Customer Contact:</label>
             <input type="text" name="cusc"></input>
           </td>
         </tr>
 
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="zip">Zip Code:</label>
+            <label >Zip Code:</label>
             <input type="text" name="zip"></input>
           </td>
           <td colSpan={2} className="full-input">
-            <label for="pname">Plant Name:</label>
+            <label >Plant Name:</label>
             <input type="text" name="pname"></input>
           </td>
           <td colSpan={3} className="full-input">
-            <label for="ctel">Customer Tel. No:</label>
+            <label>Customer Tel. No:</label>
             <input type="text" name="ctel"></input>
           </td>
         </tr>
@@ -58,43 +58,43 @@ const App = () => {
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={7}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
@@ -123,51 +123,51 @@ const App = () => {
         </tr>
         <tr>
           <td className="full-input" colSpan={6}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={6}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={6}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={6}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td className="full-input" colSpan={6}>
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
@@ -196,113 +196,113 @@ const App = () => {
 
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
         <tr>
           <td colSpan={2} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td colSpan={4} className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
           <td className="full-input">
-            <label for="nul"></label>
+            <label></label>
             <input type="text" name="nul"></input>
           </td>
         </tr>
@@ -357,36 +357,10 @@ const App = () => {
           <td className="full-input"></td>
           <td className="full-input"></td>
           <td className="full-input">
-            <label for="sign">Customer Signature</label>
+            <label>Customer Signature</label>
           </td>
           <td className="full-input">
-            <label for="sign">Labor:</label>
-          </td>
-          <td className="full-input"></td>
-        </tr>
-
-        <tr>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input">
-            <label for="sign">Misc:</label>
-          </td>
-          <td className="full-input"></td>
-        </tr>
-
-        <tr>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input"></td>
-          <td className="full-input">
-            <label for="sign">Tech Signature</label>
-          </td>
-          <td className="full-input">
-            <label for="sign">Tax:</label>
+            <label>Labor:</label>
           </td>
           <td className="full-input"></td>
         </tr>
@@ -398,7 +372,33 @@ const App = () => {
           <td className="full-input"></td>
           <td className="full-input"></td>
           <td className="full-input">
-            <label for="sign">Labor:</label>
+            <label>Misc:</label>
+          </td>
+          <td className="full-input"></td>
+        </tr>
+
+        <tr>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input">
+            <label>Tech Signature</label>
+          </td>
+          <td className="full-input">
+            <label>Tax:</label>
+          </td>
+          <td className="full-input"></td>
+        </tr>
+
+        <tr>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input"></td>
+          <td className="full-input">
+            <label>Labor:</label>
           </td>
           <td className="full-input"></td>
         </tr>
